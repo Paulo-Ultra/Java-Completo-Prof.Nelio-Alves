@@ -39,7 +39,7 @@ O repositório do projeto e alunos envolvidos:
 
 - [Github dos Alunos - Iasmin](https://github.com/iasminaraujoc)
 
-- [Github dos Alunos - Paulo](https://github.com/Paulo-Ultra)
+- [Paulo](https://github.com/Paulo-Ultra)
 
 - [Github dos Alunos - Ramon](https://github.com/ramondomiingos)
 
