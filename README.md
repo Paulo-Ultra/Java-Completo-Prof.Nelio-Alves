@@ -35,6 +35,8 @@ O repositório do projeto e alunos envolvidos:
 
 - [Repositório do Projeto](https://github.com/ramondomiingos/pan-academy-blue-bank)
 
+## ⚙️ Alunos participantes 
+
 - [Github dos Alunos - Brenda](https://github.com/Brenda-pereira)
 
 - [Github dos Alunos - Iasmin](https://github.com/iasminaraujoc)
